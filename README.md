@@ -6,7 +6,7 @@ Sistem optimizasyonu, otonom araç teknolojileri ve veritabanı mimarileri üzer
 
 ---
 
-### 🛠 Teknik Yetkinlikler
+###  Teknik Yetkinlikler
 
 * **Programlama Dilleri:** Python, C#, SQL
 * **Otonom Sistemler & Robotik:** ROS2, Gazebo, SLAM Algoritmaları
@@ -16,7 +16,7 @@ Sistem optimizasyonu, otonom araç teknolojileri ve veritabanı mimarileri üzer
 
 ---
 
-### 🚀 Öne Çıkan Çalışmalar
+###   Öne Çıkan Çalışmalar
 
 * **Factory Management & Analytics System:** İşletme verimliliğini takip eden, Streamlit tabanlı gerçek zamanlı personel ve veri analiz paneli.
 * **Otonom Araç Simülasyonu:** OTAGG bünyesinde gerçekleştirilen, ROS2 ve sensör füzyonu tabanlı haritalama ve otonom sürüş projesi.
@@ -25,9 +25,8 @@ Sistem optimizasyonu, otonom araç teknolojileri ve veritabanı mimarileri üzer
 ---
 
 
-### 📈 İstatistikler ve Bağlantılar
+###   Bağlantılar
 
-![Mustafa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MstfOzturk16&layout=compact&theme=radical&hide_border=true)
 
 * **LinkedIn:** [linkedin.com/in/mustafa-ozturk](https://www.linkedin.com/in/mustafa-ozturk-eng/)
 * **E-Posta:**  ozturkmstf2004@gmail.com
