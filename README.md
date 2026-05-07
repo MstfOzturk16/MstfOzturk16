@@ -24,7 +24,6 @@ Sistem optimizasyonu, otonom araç teknolojileri ve veritabanı mimarileri üzer
 
 ---
 
-### 📈 İstatistikler ve Bağlantılar
 
 ### 📈 İstatistikler ve Bağlantılar
 
