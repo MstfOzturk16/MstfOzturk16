@@ -26,7 +26,9 @@ Sistem optimizasyonu, otonom araç teknolojileri ve veritabanı mimarileri üzer
 
 ### 📈 İstatistikler ve Bağlantılar
 
-![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MstfOzturk16&show_icons=true&theme=transparent&hide_border=true)
+### 📈 İstatistikler ve Bağlantılar
 
-* **LinkedIn:** [linkedin.com/in/mustafa-ozturk](YENI_TEMIZ_LINKINIZ)
-* **E-Posta:** [E-POSTA_ADRESİNİZ]
+![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MstfOzturk16&show_icons=true&theme=radical)
+
+* **LinkedIn:** [linkedin.com/in/mustafa-ozturk](https://www.linkedin.com/in/mustafa-ozturk-eng/)
+* **E-Posta:**  ozturkmstf2004@gmail.com
